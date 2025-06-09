@@ -1,0 +1,12 @@
+C:\Users\apandey\Downloads\obs-studio\libobs-opengl\gl-windows.c;C:\Users\apandey\Downloads\obs-studio\build\libobs-opengl\libobs-opengl.dir\Release\gl-windows.obj
+C:\Users\apandey\Downloads\obs-studio\libobs-opengl\gl-helpers.c;C:\Users\apandey\Downloads\obs-studio\build\libobs-opengl\libobs-opengl.dir\Release\gl-helpers.obj
+C:\Users\apandey\Downloads\obs-studio\libobs-opengl\gl-indexbuffer.c;C:\Users\apandey\Downloads\obs-studio\build\libobs-opengl\libobs-opengl.dir\Release\gl-indexbuffer.obj
+C:\Users\apandey\Downloads\obs-studio\libobs-opengl\gl-shader.c;C:\Users\apandey\Downloads\obs-studio\build\libobs-opengl\libobs-opengl.dir\Release\gl-shader.obj
+C:\Users\apandey\Downloads\obs-studio\libobs-opengl\gl-shaderparser.c;C:\Users\apandey\Downloads\obs-studio\build\libobs-opengl\libobs-opengl.dir\Release\gl-shaderparser.obj
+C:\Users\apandey\Downloads\obs-studio\libobs-opengl\gl-stagesurf.c;C:\Users\apandey\Downloads\obs-studio\build\libobs-opengl\libobs-opengl.dir\Release\gl-stagesurf.obj
+C:\Users\apandey\Downloads\obs-studio\libobs-opengl\gl-subsystem.c;C:\Users\apandey\Downloads\obs-studio\build\libobs-opengl\libobs-opengl.dir\Release\gl-subsystem.obj
+C:\Users\apandey\Downloads\obs-studio\libobs-opengl\gl-texture2d.c;C:\Users\apandey\Downloads\obs-studio\build\libobs-opengl\libobs-opengl.dir\Release\gl-texture2d.obj
+C:\Users\apandey\Downloads\obs-studio\libobs-opengl\gl-texture3d.c;C:\Users\apandey\Downloads\obs-studio\build\libobs-opengl\libobs-opengl.dir\Release\gl-texture3d.obj
+C:\Users\apandey\Downloads\obs-studio\libobs-opengl\gl-texturecube.c;C:\Users\apandey\Downloads\obs-studio\build\libobs-opengl\libobs-opengl.dir\Release\gl-texturecube.obj
+C:\Users\apandey\Downloads\obs-studio\libobs-opengl\gl-vertexbuffer.c;C:\Users\apandey\Downloads\obs-studio\build\libobs-opengl\libobs-opengl.dir\Release\gl-vertexbuffer.obj
+C:\Users\apandey\Downloads\obs-studio\libobs-opengl\gl-zstencil.c;C:\Users\apandey\Downloads\obs-studio\build\libobs-opengl\libobs-opengl.dir\Release\gl-zstencil.obj

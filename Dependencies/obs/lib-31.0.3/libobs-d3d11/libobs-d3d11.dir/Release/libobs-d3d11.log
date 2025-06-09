@@ -1,0 +1,18 @@
+﻿  Building Custom Rule C:/Users/apandey/Downloads/obs-studio/libobs-d3d11/CMakeLists.txt
+  d3d11-duplicator.cpp
+  d3d11-indexbuffer.cpp
+  d3d11-rebuild.cpp
+  d3d11-samplerstate.cpp
+  d3d11-shader.cpp
+  d3d11-shaderprocessor.cpp
+  d3d11-stagesurf.cpp
+  d3d11-subsystem.cpp
+  d3d11-texture2d.cpp
+  d3d11-texture3d.cpp
+  d3d11-vertexbuffer.cpp
+  d3d11-zstencilbuffer.cpp
+     Creating library C:/Users/apandey/Downloads/obs-studio/build/libobs-d3d11/Release/libobs-d3d11.lib and object C:/Users/apandey/Downloads/obs-studio/build/libobs-d3d11/Release/libobs-d3d11.exp
+  Generating code
+  Finished generating code
+  libobs-d3d11.vcxproj -> C:\Users\apandey\Downloads\obs-studio\build\libobs-d3d11\Release\libobs-d3d11.dll
+  Copy libobs-d3d11 to destination

@@ -1,0 +1,6 @@
+﻿  screen_recording.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 402 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  screen_recording.vcxproj -> C:\Users\apandey\workspace\7.x\screen_recording\x64\Release\screen_recording.exe
